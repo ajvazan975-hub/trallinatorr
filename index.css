@@ -1,0 +1,26 @@
+body {
+		font-family: Times new roman, Helvetica, sans-serif;
+		
+}
+h1{
+	color:DarkGray;
+	
+}
+h2{
+	border-bottom : 1px solid gray
+}
+h3{
+img {
+	height:250px;
+	width:300px
+}
+}
+h5{
+	border-bottom : 1px solid gray;
+}
+h6{
+img{
+	heigt:30px;
+	width:30px
+}
+}
